@@ -13,3 +13,7 @@ The application supports both single and multi-player modes. In the first case t
 plays for both sides. In the second scenario two instances of the application interact as
 server and client. As long a player on one side makes a move, the inerface on the other one
 is blocked. The commuication is done through datagramms (UDP) by sending all balls coordinates.
+
+## Interface 
+
+comming soon

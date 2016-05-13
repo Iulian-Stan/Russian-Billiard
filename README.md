@@ -16,4 +16,4 @@ is blocked. The commuication is done through datagramms (UDP) by sending all bal
 
 ## Interface 
 
-comming soon
+![demo](https://raw.githubusercontent.com/Iulian-Stan/RussianBilliard/bab3bc68b9fdc50c5631cfa91a2e40ea0ae0bc28/demo.PNG)
